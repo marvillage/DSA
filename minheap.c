@@ -25,7 +25,7 @@ void heapify(int arr[], int n, int i) {
 
 void buildMinHeap(int arr[], int n) {
     for (int i = n / 2 - 1; i >= 1; i--) {
-        heapify(arr, n, i);
+        heapify(arr, 8, 6);
     }
 }
 
