@@ -1,4 +1,4 @@
 Hi, This is Kushagra Srivastava
 From CSE Branch
 This is the folder of Data structures
-BT22cse139
+BT22CSE139
