@@ -3,10 +3,10 @@
    
 struct Node  
 {  
-    int keys;  
+    int key;  
     struct Node *left;  
     struct Node *right;  
-    int heights;  
+    int height;  
 };  
    
 int getHeight(struct Node *n){  
